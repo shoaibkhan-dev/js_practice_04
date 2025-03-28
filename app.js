@@ -60,3 +60,12 @@
 
   let number = ['1', '2', '3', '4'];
   number.pop()
+
+  function name (){
+    console.log("shoaib");
+
+  }
+  name()
+
+
+
