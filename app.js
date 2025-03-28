@@ -67,5 +67,11 @@
   }
   name()
 
+  function car (){
+    console.log("honda")
+  }
+
+  car()
+
 
 
