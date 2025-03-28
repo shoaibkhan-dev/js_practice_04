@@ -50,4 +50,13 @@
     console.log(number1, number2);
   }
 
-  myName()
+  multiply()
+
+    function getNumber(){
+       console.log("hi everyone")
+  }
+
+  getNumber()
+
+  let number = ['1', '2', '3', '4'];
+  number.pop()
